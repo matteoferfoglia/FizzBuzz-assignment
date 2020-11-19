@@ -79,4 +79,7 @@ public class FizzBuzz {
         if(print)   System.out.println(s);
     }
 
+    public String convert(int i) {
+        return String.valueOf(i) ;
+    }
 }

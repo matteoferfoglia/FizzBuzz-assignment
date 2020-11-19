@@ -19,3 +19,7 @@ We want our Java program to print numbers from 1 to 105 and apply these addition
 
 - This assignment is a variant of the [Fizz Buzz Test](http://wiki.c2.com/?FizzBuzzTest).
 - Feel free to change the existing code.
+
+
+## Tests
+- Conversion from number to string (_Convert_)
