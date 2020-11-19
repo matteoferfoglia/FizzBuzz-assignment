@@ -1,4 +1,5 @@
 .gradle/
 .idea/
 build/
-comparison*
+comparison_stream.pdf
+comparison_stream.xlsx
